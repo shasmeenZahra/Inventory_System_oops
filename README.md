@@ -64,7 +64,7 @@ Add Product	View Inventory	Search & Reports
 👩‍💻 Developed By
 Shasmeen Zahra
 12th Class Student • Python & Frontend Developer
-live view 🔗
+live view 🔗https://inventorysystemoops.streamlit.app/
 
 🏁 License
 This project is free to use for educational purposes. All rights reserved © 2025.
